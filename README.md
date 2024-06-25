@@ -5,14 +5,12 @@ Hi everyone i'm jayanti
 These are my Ui design all the task's of my internship given by CodSoft.
 
 
-
-## 🛠 Skills
-HTML, CSS, Figma 
-
-
 ## 🚀 About Me
 I'm a Senior Student currently in 3rd Final prusing Computer Application. 
 I'm From India. I am a Ui/Ux Designer passionate about creating user-friendly interfaces.Aas a fresher in Ui/Ux Designer.I've managed alll the task by myself. I belive in creativity and continuous learning . I'm Self taugh Ui/Ux designer.
+
+## 🛠 Skills
+HTML, CSS, Figma 
 
 ## Acknowledgements
 
