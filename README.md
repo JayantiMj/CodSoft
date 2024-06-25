@@ -40,16 +40,16 @@ A mobile app signup flow is the process of users creating an account and signing
 | ----------------- | ------------------------------------------------------------------ |
 |Back Ground | ![00702D](https://via.placeholder.com/10/00702Df?text=+) 00702D |
 |Window | ![308B54](https://via.placeholder.com/10/308B54?text=+) 308B54 |
-|Log-in | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) white |
-|Written part | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) white |
+|Log-in | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) White |
+|Written part | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) White |
 |Illustration skin | ![Fcc9a7](https://via.placeholder.com/10/FCC9A7?text=+) FCC9A7 |
 |Illustration Shirt | ![DF945B](https://via.placeholder.com/10/DF945B?text=+) DF945B |
 |Illustration Pants|![0C2C40](https://via.placeholder.com/10/0c2c40?text=+) 0C2C40|
-|Illustration Hair|![000000](https://via.placeholder.com/10/000000?text=+) 000000|
-|Email & Password|![000000](https://via.placeholder.com/10/000000?text=+) 000000|
+|Illustration Hair|![000000](https://via.placeholder.com/10/000000?text=+) Black|
+|Email & Password|![000000](https://via.placeholder.com/10/000000?text=+) Black|
 |E&P insider |![606060](https://via.placeholder.com/10/606060?text=+) 606060|
 |Sign-Up/In  |![359EFF](https://via.placeholder.com/10/359EFF?text=+) 359EFF|
-|Log-in with Email|![000000](https://via.placeholder.com/10/000000?text=+) 000000|
+|Log-in with Email|![000000](https://via.placeholder.com/10/000000?text=+) Black|
 
 
 ## Color Reference for Task 2
@@ -70,7 +70,7 @@ Responsive: The email template should be responsive, so that it looks good on al
 |Written part | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) White |
 |center body | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) White |
 |Go to Acc | ![cccccc](https://via.placeholder.com/10/CCCCCC?text=+) cccccc |
-|Language |![000000](https://via.placeholder.com/10/000000?text=+) 000000|
+|Language |![000000](https://via.placeholder.com/10/000000?text=+) Black|
 |Unsubcribe|![00f58](https://via.placeholder.com/10/000F5B?text=+) 000F5B|
 |Facebook Logo|![1877F2](https://via.placeholder.com/10/1877F2/?text=+) 1877F2|
 |Instagram Logo| ![FF543E](https://via.placeholder.com/10/FF543E?text=+) Radial| 
