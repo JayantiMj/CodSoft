@@ -22,7 +22,9 @@ HTML, CSS, Figma
 - Sketching
 - Listening music
 - Watching Anime
-- traveling
+- Traveling
+- Pet
+- Reading
 
 ## 🔗 Links
 
@@ -62,6 +64,7 @@ easy and quick for businesses to send out emails that look professional and
 engaging.
 
 Responsive: The email template should be responsive, so that it looks good on all devices,including desktop computers, laptops, tablets, and smartphones.
+Responsibility: Visually appealing, Easy to use.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -77,6 +80,27 @@ Responsive: The email template should be responsive, so that it looks good on al
 |Instagram Logo| ![FF543E](https://via.placeholder.com/10/FF543E?text=+) Radial| 
 |Instagram Logo| ![FFDD55](https://via.placeholder.com/10/FFDD55?text=+) Radial|
 |Instagram Logo| ![C837AB](https://via.placeholder.com/10/C837AB?text=+) Radial
+
+
+## Color Reference for Task 3
+Color platte for Task 3 Restaurant Menu
+
+A restaurant menu UI/UX project is the process of designing a menu that is
+both visually appealing and easy to use. The goal of a good restaurant menu
+is to make it easy for customers to find the dishes they want, and to
+encourage them to order more.
+
+Responsiblity: Visually appealing, easy to use, Categorized.
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+|Back Ground | ![FFC83B](https://via.placeholder.com/10/FFC83B?text=+) FFC83B |
+|Wrtting| ![000000](https://via.placeholder.com/10/000000?text=+) Black|
+|Rating star | ![FFC83B](https://via.placeholder.com/10/FFC83B?text=+) FFC83B|
+|Other bg | ![ffffff](https://via.placeholder.com/10/ffffff?text=+) White |
+|Nav bar| ![ADB5BD](https://via.placeholder.com/10/ADB5BD?text=+) ADB5BD |
+|Description | ![ADB5BD](https://via.placeholder.com/10/ADB5BD?text=+) ADB5BD |
+
 
 ## Documentation
 
